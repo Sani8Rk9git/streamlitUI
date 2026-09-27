@@ -129,7 +129,7 @@ with st.form(key="..."):
     - provides a list of options to select from.
     - Give the options in a list
 
-3. ```st.data_input("label")```
+3. ```st.date_input("label")```
     - takes date as input
     - if we need to increase the range of the data
     - has two arguments max_value= and min_value=
