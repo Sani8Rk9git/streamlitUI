@@ -172,5 +172,9 @@ if submit:
 - inside the form if we have written some code that do the dynamic update (means as we enter a value in the field, we want something to happen), it will not work until you press submit
 - In these cases we use session state.
 
+- 6. ```st.number_input("label")```
+         - Takes only number as input.
+         - can also provide limits to the number
+
 
 
