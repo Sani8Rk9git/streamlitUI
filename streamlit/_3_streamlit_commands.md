@@ -176,5 +176,8 @@ if submit:
          - Takes only number as input.
          - can also provide limits to the number
 
+- ```st.file_uploader("label", type=["pdf"])```
+         - can be used to take files as input
+
 
 
